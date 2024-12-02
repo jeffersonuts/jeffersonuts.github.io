@@ -1,0 +1,25 @@
+.imagen1{
+    display: flex;
+    text-align: center;
+}
+
+.productos{
+    text-align: center;
+    color: chocolate;
+
+}
+
+.contactenos{
+    text-align: center;
+    color: chocolate;
+}
+.servicios{
+    text-align: center;
+    color: chocolate;
+
+}
+
+h1 {
+    color: blueviolet;
+}
+
