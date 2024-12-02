@@ -1,25 +1,80 @@
 .imagen1{
     display: flex;
     text-align: center;
+    margin: auto;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
 }
 
-.productos{
+body{
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.tabs{
+    display: inline;
     text-align: center;
     color: chocolate;
-
+    border: 3px solid blueviolet;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 30%;
+    font-family: cursive;
+    font-size: large;
 }
 
-.contactenos{
-    text-align: center;
-    color: chocolate;
+#seccion1{
+width: 500px;
+height: 40px;
+margin-left: 20px;
+padding: 20px ;
+border: 1px solid blueviolet;
+color: blueviolet;
+font-size: large;
+font-family: cursive;
 }
-.servicios{
-    text-align: center;
-    color: chocolate;
 
+#seccion2{
+width: 500px;
+height: 40px;
+margin-left: 20px;
+padding: 20px ;
+border: 1px solid blueviolet;
+color: blueviolet;
+font-size: large;
+font-family: cursive;
 }
 
-h1 {
-    color: blueviolet;
+
+
+#seccion3{
+width: 500px;
+height: 40px;
+margin-left: 20px;
+padding: 20px ;
+border: 1px solid blueviolet;
+color: blueviolet;
+font-size: large;
+font-family: cursive;
+}
+
+
+
+
+
+p{
+    font-size: large;
+    font-weight: bold;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    background-color: brown;
 }
 
